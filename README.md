@@ -1,4 +1,5 @@
 # prime-palindrome-leetcode
+
 Given an integer n, return the smallest prime palindrome greater than or equal to n.
 
 An integer is prime if it has exactly two divisors: 1 and itself. Note that 1 is not a prime number.
@@ -28,7 +29,11 @@ Output: 11
 Input: n = 13
 
 Output: 101
- 
+
 **Constraints:**
 
 - 1 <= n <= 108
+
+**LeetCode Submission Result**
+
+My solution achieved a runtime of 79ms, outperforming 86.96% of users with JavaScript, and utilized 51.64MB of memory, surpassing 60.87% of users with JavaScript in terms of memory efficiency on LeetCode.
